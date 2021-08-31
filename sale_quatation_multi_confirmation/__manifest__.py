@@ -12,7 +12,7 @@ This module is used to confirm multiple sale orders at the same time.
     'author': 'Ingenio',
     'depends': ['sale_management'],
     'data': ['data/data.xml'],
-    'images': ['static/description/banner.jpg'],
+    'images': ['static/description/banner.png'],
     'price': 8,
     'currency': 'EUR',
     'sequence': 1,
